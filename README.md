@@ -289,11 +289,11 @@ void LCD_init()
 
 ## Output :
 ### Before:
-![o](D1.png)
+![o](https://github.com/dharanielango/Experiment--05-4X4-keypad-interface-with-LPC2148/blob/main/d1.png)
 ### After:
-![o](D2.png)
+![o](https://github.com/dharanielango/Experiment--05-4X4-keypad-interface-with-LPC2148/blob/main/d2.png)
 ### Circuit Diagram:
-![o](D3.png)
+![o](https://github.com/dharanielango/Experiment--05-4X4-keypad-interface-with-LPC2148/blob/main/d3.png)
 
 ## Result :
 Interfacing a keypad 4x4 is interfaced  with LPC2148
